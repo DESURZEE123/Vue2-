@@ -1,0 +1,58 @@
+{
+  "id": "3761970",
+  "name": "练手",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "845783",
+      "name": "钱",
+      "font_class": "qian",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "31141878",
+      "name": "bold-format-square",
+      "font_class": "vuesax-bold-format-square",
+      "unicode": "e719",
+      "unicode_decimal": 59161
+    },
+    {
+      "icon_id": "32671050",
+      "name": "binoculars2-fill",
+      "font_class": "binoculars2-fill",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "32671054",
+      "name": "book",
+      "font_class": "book",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "32671057",
+      "name": "book-half",
+      "font_class": "book-half",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "32671077",
+      "name": "bootstrap",
+      "font_class": "bootstrap",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "32671089",
+      "name": "border-top",
+      "font_class": "border-top",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    }
+  ]
+}
